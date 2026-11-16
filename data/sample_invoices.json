@@ -1,0 +1,146 @@
+[
+  {
+    "id": "invoice-001",
+    "exposure": 20650,
+    "signal": 0.11,
+    "urgency": 1
+  },
+  {
+    "id": "invoice-002",
+    "exposure": 86293,
+    "signal": 0.18,
+    "urgency": 2
+  },
+  {
+    "id": "invoice-003",
+    "exposure": 17302,
+    "signal": 0.589,
+    "urgency": 8
+  },
+  {
+    "id": "invoice-004",
+    "exposure": 48288,
+    "signal": 0.896,
+    "urgency": 2
+  },
+  {
+    "id": "invoice-005",
+    "exposure": 56277,
+    "signal": 0.137,
+    "urgency": 2
+  },
+  {
+    "id": "invoice-006",
+    "exposure": 20603,
+    "signal": 0.452,
+    "urgency": 3
+  },
+  {
+    "id": "invoice-007",
+    "exposure": 34192,
+    "signal": 0.572,
+    "urgency": 7
+  },
+  {
+    "id": "invoice-008",
+    "exposure": 89459,
+    "signal": 0.819,
+    "urgency": 7
+  },
+  {
+    "id": "invoice-009",
+    "exposure": 40078,
+    "signal": 0.477,
+    "urgency": 8
+  },
+  {
+    "id": "invoice-010",
+    "exposure": 3110,
+    "signal": 0.902,
+    "urgency": 3
+  },
+  {
+    "id": "invoice-011",
+    "exposure": 79922,
+    "signal": 0.287,
+    "urgency": 8
+  },
+  {
+    "id": "invoice-012",
+    "exposure": 58987,
+    "signal": 0.752,
+    "urgency": 4
+  },
+  {
+    "id": "invoice-013",
+    "exposure": 1997,
+    "signal": 0.188,
+    "urgency": 9
+  },
+  {
+    "id": "invoice-014",
+    "exposure": 4230,
+    "signal": 0.714,
+    "urgency": 9
+  },
+  {
+    "id": "invoice-015",
+    "exposure": 18826,
+    "signal": 0.835,
+    "urgency": 2
+  },
+  {
+    "id": "invoice-016",
+    "exposure": 4535,
+    "signal": 0.117,
+    "urgency": 8
+  },
+  {
+    "id": "invoice-017",
+    "exposure": 14005,
+    "signal": 0.78,
+    "urgency": 4
+  },
+  {
+    "id": "invoice-018",
+    "exposure": 49714,
+    "signal": 0.365,
+    "urgency": 4
+  },
+  {
+    "id": "invoice-019",
+    "exposure": 55098,
+    "signal": 0.534,
+    "urgency": 9
+  },
+  {
+    "id": "invoice-020",
+    "exposure": 82650,
+    "signal": 0.775,
+    "urgency": 5
+  },
+  {
+    "id": "invoice-021",
+    "exposure": 17525,
+    "signal": 0.275,
+    "urgency": 7
+  },
+  {
+    "id": "invoice-022",
+    "exposure": 14884,
+    "signal": 0.533,
+    "urgency": 4
+  },
+  {
+    "id": "invoice-023",
+    "exposure": 85339,
+    "signal": 0.783,
+    "urgency": 6
+  },
+  {
+    "id": "invoice-024",
+    "exposure": 71307,
+    "signal": 0.349,
+    "urgency": 3
+  }
+]
